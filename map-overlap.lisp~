@@ -1,0 +1,6 @@
+;;;; map-overlap.lisp
+
+(in-package #:map-overlap)
+
+;;; "map-overlap" goes here. Hacks and glory await!
+
