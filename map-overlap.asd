@@ -3,7 +3,7 @@
 (asdf:defsystem #:map-overlap
   :description "Utility for mapping over intersections/overlaps in spans."
   :author "Daniel Keogh <keogh.daniel@gmail.com>"
-  :license "Specify license here"
+  :license "GPL3"
   :depends-on (#:groupby)
   :serial t
   :components ((:file "package")
